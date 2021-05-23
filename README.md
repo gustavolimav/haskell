@@ -1,2 +1,3 @@
 # haskell
-haskell ativities
+Activities and tests about haskell made in college.
+
